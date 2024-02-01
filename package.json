@@ -1,0 +1,16 @@
+{
+  "name": "malicious-package-example",
+  "version": "0.1.0",
+  "dependencies": {
+    "jewishapi": "^0.0.1-security",
+    "@lobehub/chat": "0.122.6",
+    "russiapi": "0.0.1-security"
+  },
+  "scripts": {
+    "start": "webpack-cli serve --mode=development --env development",
+    "start:dev": "webpack-cli serve --mode=development --env development",
+    "build": "webpack --mode=production --env production --progress",
+    "lint": "eslint './**/*.{ts,tsx}' --max-warnings 0",
+    "test": "jest"
+  }
+}
