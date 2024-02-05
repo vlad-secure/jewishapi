@@ -1,0 +1,73 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Build output
+/dist
+/out
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodotools
+*.kate-swp
+*.kate-swp.*
+*.~lock.*
+*~
+*.swp
+._*
+.project
+.buildpath
+.settings/
+.tmproj
+nbproject/
+*.launch
+.c9/
+.c9revisions/
+*.tmproj
+*.esproj
+*.orig
+*.bak
+*.tmp
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+.DS_Store
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
