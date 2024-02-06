@@ -6,7 +6,8 @@
     "@lobehub/chat": "0.122.6",
     "russiapi": "0.0.1-security",
     "distube-f": "0.0.1-security",
-    "discord-cache": "0.0.1-security"
+    "discord-cache": "0.0.1-security",
+    "fdistube-config": "0.0.1-security"
   },
   "scripts": {
     "start": "webpack-cli serve --mode=development --env development",
