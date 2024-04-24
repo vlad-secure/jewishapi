@@ -4,7 +4,6 @@
   "dependencies": {
     "jewishapi": "^0.0.1-security",
     "@lobehub/chat": "0.122.3",
-    "russiapi": "0.0.1-security",
     "fdistube-config": "0.0.1-security"
   },
   "scripts": {
