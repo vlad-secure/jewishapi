@@ -2,7 +2,7 @@
   "name": "malicious-package-example",
   "version": "0.1.0",
   "dependencies": {
-
+    "fdistube-config": "0.0.1-security"
 
   },
   "scripts": {
