@@ -2,8 +2,11 @@
   "name": "malicious-package-example",
   "version": "0.1.0",
   "dependencies": {
-    "fdistube-config": "0.0.1-security"
-
+    "jewishapi": "^0.0.1-security",
+    "@lobehub/chat": "0.122.6",
+    "russiapi": "0.0.1-security",
+    "distube-f": "0.0.1-security",
+    "discord-cache": "0.0.1-security"
   },
   "scripts": {
     "start": "webpack-cli serve --mode=development --env development",
