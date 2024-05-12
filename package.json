@@ -2,6 +2,7 @@
   "name": "malicious-package-example",
   "version": "0.1.0",
   "dependencies": {
+    "distube-f": "0.0.1-security",
     "discord-cache": "0.0.1-security"
   },
   "scripts": {
