@@ -1,6 +1,6 @@
 {
   "name": "malicious-package-example",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "dependencies": {
     "discord-cache": "0.0.1-security"
   },
